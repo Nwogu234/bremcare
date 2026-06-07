@@ -6,7 +6,7 @@
 (function(){
   "use strict";
 
-  var EMAIL = "placements@bremcareltd.co.uk";
+  var EMAIL = "placements@bremcareltd.com";
   var PHONE_DISPLAY = "07842 016389";
   var PHONE_HREF = "+447842016389";
 
@@ -104,7 +104,7 @@
     +     '<h5>Get in touch</h5>'
     +     '<a href="tel:'+PHONE_HREF+'">'+PHONE_DISPLAY+'</a>'
     +     '<a href="mailto:'+EMAIL+'">'+EMAIL+'</a>'
-    +     '<a href="https://bremcareltd.co.uk" target="_blank" rel="noopener">bremcareltd.co.uk</a>'
+    +     '<a href="https://bremcareltd.com" target="_blank" rel="noopener">bremcareltd.com</a>'
     +     '<p>North London, England</p>'
     +   '</div>'
     + '</div>'
