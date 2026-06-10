@@ -7,8 +7,8 @@
   "use strict";
 
   var EMAIL = "placements@bremcareltd.com";
-  var PHONE_DISPLAY = "07842 016389";
-  var PHONE_HREF = "+447842016389";
+  var PHONE_DISPLAY = "07521 480254";
+  var PHONE_HREF = "+447521480254";
 
   var NAV = [
     {id:"home",     label:"Home",            href:"index.html"},
